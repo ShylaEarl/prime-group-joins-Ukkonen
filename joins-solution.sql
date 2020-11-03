@@ -8,22 +8,22 @@ SELECT * FROM customers;
 
 
 -- 3. Which warehouses have cheetos?
-
+3
 
 -- 4. Which warehouses have diet pepsi?
-
+1, 3, 4
 
 -- 5. Get the number of orders for each customer. NOTE: It is OK if those without orders are not included in results.
 
 
 -- 6. How many customers do we have?
-
+4
 
 -- 7. How many products do we carry?
-
+7
 
 -- 8. What is the total available on-hand quantity of diet pepsi?
-
+92
 
 --- Stretch Goals ---
 
